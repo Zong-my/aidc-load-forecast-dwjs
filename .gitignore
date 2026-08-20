@@ -1,0 +1,16 @@
+# Raw datasets are user-downloaded (see data/README.md) and never committed.
+data/*
+!data/README.md
+
+# Generated artifacts (this repository ships source code only)
+data_processed/
+results/
+figures/*.pdf
+figures/*.png
+figures/*.svg
+
+__pycache__/
+*.pyc
+*.pt
+*.log
+.DS_Store
