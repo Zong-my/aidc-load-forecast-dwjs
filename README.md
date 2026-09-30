@@ -1,4 +1,4 @@
-# aidc-load-forecast-hve
+# aidc-load-forecast-dwjs
 
 This repository ships **code only** — no datasets and no precomputed results.
 It covers everything needed to reproduce the paper's public-data results:
